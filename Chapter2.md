@@ -202,3 +202,7 @@ Further examination leads to three book marks. The Red, Blue and Black bookmarks
 Further digging around the desk and a perception check (at least a Medium to represent sorting through the crazy pile of scrolls on the desk) leads to the characters finding a thick leather glove like that of a bee keeper but much thicker. This glove is used later in the dungeon to retrieve the Obsidian Scarab and should be documented for the player that has it. 
 
 **Stairs Down** In the corner of the room is a spiral staircase going down into darkness. Shining the torch down the stairs the players can hear shuffling and moaning like many mindless zombies are down below. Waving the torch to see further doesn’t provide any sign of what is to come.
+
+Continue to [Chapter 3: Caverns of Respite](Chapter3.md)
+
+Return to [Chapter 2: Enter the Madhouse](Chapter2.md)

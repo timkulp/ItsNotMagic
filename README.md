@@ -15,6 +15,7 @@ This role playing game adventure takes you through a Wizard's Dungeon to find th
 * **Epilogue** 
 
 ## Encountering The Other
+
 In the worlds of Dungeons & Dragons, magic is as natural as water. While sometimes not common, it is known and understood to exist. Characters in the worlds of D&D recognize that magic is a great power that flows through the multiverse as a power that can build or destroy worlds. Now imagine what it would be like to learn there is another power, a greater power that does not come from manipulating nature, it comes from within.
 
 Welcome to *It’s Not Magic* an adventure that takes players in a world where magic is not the ultimate power. Deep into a Wizard’s Dungeon known as The Madhouse players will encounter other worldly horrors, deadly traps and awaken dormant powers within themselves.
@@ -52,7 +53,7 @@ So where is this adventure? Well that is up to you. The content here is kept fai
 
 ## Story Summary
 
-Players start in a tavern where drunk barbarians are claiming they found the ancient dungeon. During this time players can learn the rumors of Dmitry and the strange happenings in the village. Once the players obtain the map to the dungeon they go off to find it in the mountains east of the tavern. While the map to the dungeon is accurate, the second map, the map of the dungeon is incorrect and a forgery. 
+Players start in a tavern where drunk barbarians are claiming they found the ancient dungeon. During this time players can learn the rumors of Dmitry and the strange happenings in the village. Once the players obtain the map to the dungeon they go off to find it in the mountains east of the tavern. While the map to the dungeon is accurate, the second map, the map of the dungeon is incorrect and a forgery.
 
 In the dungeon, players immediately feel the impact of the psionic assault trying to determine their danger to the Beast. Through numerous traps and encounters the Beast is testing the players and eventually trying to stop them from getting to the Beast’s lair. Throughout the dungeon players find the possessions of an old wizard who was trying to connect to a realm that housed a new, more potent, magic that comes from within instead of the natural order of the multiverse. 
 
@@ -61,3 +62,5 @@ The only relief from the psionic assault is when the players descend into the ca
 Players return to the dungeon to hunt for the tool (an Obsidian Scraab). As the players press deeper into the dungeon they encounter the Beast’s Guardian, an animated puppet that appears more like a bloated rag doll than the muscle to a monster from another dimension.
 
 Beyond the Guardian, the players encounter the Beast in the sanctuary of the dungeon complex. After battling the Beast, the players need to close the portal to the other dimension by shattering the stone in the center of the room that is holding the rift open. Once the stone is shattered, the portal collapses and any psionic powers the players had manifested end. 
+
+Continue to [Psionics](Psionics.md)

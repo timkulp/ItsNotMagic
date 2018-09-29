@@ -84,3 +84,7 @@ Within the dungeon players will find that magic is hard to control or summon. Th
 **Saving Throws** all creatures in the dungeon get a +3 to all saving throws making magical effects more difficult to apply to another creature. 
 
 As the players go deeper into the dungeon, the reason for these effects become more apparent.
+
+Continue to [Chapter 2: Enter the Madhouse](Chapter2.md)
+
+Return to [Chapter 1: Someone Has Come Along](Chapter1.md)

@@ -10,7 +10,7 @@ In this adventure you can use the option Wild Talents rule for Psionics. Wait, W
 
 In this adventure, players with the dreams pulling them here have had their psionic potential awakened by the rift between worlds. Like stories of people being able to do amazing things under duress, Wild Talents can manifest randomly or during times of stress. Use the table below to determine if a Wild Talent manifests, then use the Wild Talent Manifestation Table to determine what happens.
 
-###### Table 1: Wild Talent Occurance
+### Table 1: Wild Talent Occurance
 
 | d20 Roll | Effect                                                                             |
 | -------- | ---------------------------------------------------------------------------------- |
@@ -27,7 +27,7 @@ Use the states from the *Players Handbook* for prone (collapse) and exhaustion.
 
 Wild Talents are usually uncontrolled as they are random by nature. Think of Wild Talents as an explosion of psionic energy that randomly manifests. On very rare occassions a Wild Talent can manifest as controlled. In the Wild Talent list provided below both Controlled and Uncontrolled Effects are presented. 
 
-###### Table 2: Wild Talent Manifestations
+### Table 2: Wild Talent Manifestations
 
 | d8 Roll   | Wild Talent     |
 | --------- | --------------- |
@@ -85,3 +85,7 @@ Wild Talents are usually uncontrolled as they are random by nature. Think of Wil
 *Duration* Immediate
 
 *Effect* Parallel Effects allows two Wild Talents to manifest simultaneously. Roll 2d8 to determine which Wild Talents manifest ignoring any future 8s. As an example, if the player rolls an 8 to determine which Wild Talent manifests, then the players needs to roll 2d8 to determine which Wild Talents manifest. If the player rolls another 8, the effect is cancelled and only the single roll will manifest. If both dice show an 8, then the Wild Talent is cancelled with no negative effect for the player.
+
+Continue to [Adventure Hooks](AdventureHooks.md)
+
+Return to [Readme](Readme.md)

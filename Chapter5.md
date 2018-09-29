@@ -25,4 +25,8 @@ Medium Construct, Chaotic Evil
 ### Actions
 
 **Acidic Burn**
-The fluid around the Orb will burn the character as they attempt to attack the Orb. Any weapon except the Hammer of Shattering will melt in the fluid. Characters attempting to attack the Orb must make a save against Poison to be able to break through the fluid’s burning sensation. If the save fails, the character takes 
+The fluid around the Orb will burn the character as they attempt to attack the Orb. Any weapon except the Hammer of Shattering will melt in the fluid. Characters attempting to attack the Orb must make a save against Poison to be able to break through the fluid’s burning sensation. If the save fails, the character takes 1d8 Acid Damage.
+
+Continue to [Epilogue](Epilogue.md)
+
+Return to [Chapter 5: In & Out](Chapter5.md)

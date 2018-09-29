@@ -35,3 +35,7 @@ The players have been searching for the dungeon for weeks now but to no luck. Th
 Recently magic has been losing its potency around these parts. The players have come to investigate this bizarre occurrence. Rumor and a string of crazy adventurers has led the players to this tavern where they are looking to find their next clue on why magic is fading around the neighboring mountain range.
 
 If one of the players is a magic user (Wizard, Sorcerer, Warlock) they ability to use magic will be impacted the deeper they go into the Wizard’s dungeon. In this adventure hook the psionic energy pouring out from the other dimension is also sucking in magical energies. Left unchecked, the other dimension will drain this world of its magical energies rendering it a dead world.
+
+Continue to [Prologue](Prologue.md)
+
+Return to [Psionics](Psionics.md)
