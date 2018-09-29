@@ -79,3 +79,7 @@ If the players ask about the traps:
 `I hope my traps haven’t cause you much dismay. I had to keep others out. Seems like what finally killed me came from within. The ropes…I should have used it against the Guardian. It wouldn’t follow me down the hallway.`
 
 Dmitry is fading fast and should die as the players are talking to him.
+
+Continue to [Chapter 4: Return to Madness](Chapter4.md)
+
+Return to [Chapter 3: Caverns of Respite](Chapter3.md)

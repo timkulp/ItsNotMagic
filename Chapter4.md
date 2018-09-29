@@ -120,3 +120,6 @@ Once the players strike the Beast with the beetle, the Psi points are drained, a
 On defeating the Beast read the following:
 `The Beast collapses to the floor gasping for final breath. The battle is over or, so you thought. Magical energy is still being pulled into the orb and the liquid still pours from the crack in the wall.`
 
+Continue to [Chapter 5: In & Out](Chapter5.md)
+
+Return to [Chapter 4: Return to Madness](Chapter4.md)

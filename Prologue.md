@@ -93,3 +93,7 @@ The second map is of the interior of the dungeon. Provide the players with this 
 
 ## Prologue Conclusion
 `You strike out to find the dungeon and as you leave, catch the eye of Muntuk the Orc you met earlier. He is looking at you as if looking at a dead person. His eyes quickly jolt over to an empty corner of the room where he sees something that horrifies him causing a violent reaction as he falls from his stool to the ground. Stunned, he blinks hard and shakes his head. Looking back to the spot that startled him you see nothing. Muntuk again looks towards you as the shock in his eyes fades to resolute despair…he knows now those who came before him were not weak minded. They were just like him and soon he will be just like them.`
+
+Continue to [Chapter 1: Someone Has Come Along](Chapter1.md)
+
+Return to [Adventure Hooks](AdventureHooks.md)
