@@ -3,6 +3,7 @@
 Use the following history and adventure hooks to create a more engaging experience for your players. While you don't have to use all of this (or any of it), I do recommend using The Awakened hook as that will give your players access to psionic powers and make the game a bit more interesting.
 
 ## History
+
 Once upon a time there was a wizard named Dmitry. Like many wizards Dmitry was keen on digging deeper into forbidden knowledge within the privacy of his dungeon keep. Hidden in the twisted caverns and valleys of the mountains, Dmitry was known as a hermit by the locals wandering into the nearby village for supplies on rare occasions. On his last visit to the village, Dmitry bought many years worth of provisions and claimed that he would not be returning. After that he disappeared all together from the village as the villagers spread word of his death or ascension into another realm. Rumors still spread of the wizard from the mountains and what happened to him.
 
 A few months ago, the number of strangers passing through the village noticeably increased. Strange foreigners claiming a feeling pulled them here or dreams guided them to this place. Few are seen again but those who are claiming to have found the wizard’s dungeon and the vast riches within. All those who return, soon after returning all of them go mad claiming that they cannot escape those eyes in the darkness.
