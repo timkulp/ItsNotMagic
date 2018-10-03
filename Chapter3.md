@@ -2,7 +2,7 @@
 
 When the players go into the caverns under the dungeon they are about to encounter some pretty nasty creatures all seeking to evade the psionic powers of the Displacer Beast. Some of the creatures down here have been driven mad by the Beast while others don't trust the players are not another construct of the Beast.
 
-There are a few NPCs down here that will matter for the players but most of the characters are scenery for building suspense and setting the tone that all is not what it appears. 
+There are a few NPCs down here that will matter for the players but most of the characters are scenery for building suspense and setting the tone that all is not what it appears.
 
 The walls are rock with veins of black obsidian. The rock is rough and dark gray like granite while the obsidian is bright and reflects the torch light be create streaks of shimmering light throughout the caverns.
 
@@ -27,6 +27,7 @@ Dmitry can be found wandering throughout the dungeon and in the caverns below sc
 Overall Dmitry can provide the players some insight to the nature of psionics. He will not provoke the players but will detect their experiences throughout the dungeon and expose what they've experienced as if he experienced it as well. He is like a keeper of secrets who tells the secrets without realizing it.
 
 ## The Caverns
+
 [Map of the Caverns](images/MapOfCaverns.jpg)
 
 ### 1: First Room
@@ -51,35 +52,3 @@ Out of the first room there is a long hallway that connects to another room. The
 If the players found the glowing streaks, they will be able to follow them deeper into the cave. If the players did not find the streaks, as they go deeper into the cave they will notice them. The streaks are from Dmitry's blood from his recent wounds.
 
 In the long hall players can have random encounters. Use Xandar's Guide to Everything. Creatures should be minor and mindless (animals).
-
-### 3: Encountering Dmitry
-
-The players encounter a bleeding Dmitry at the end of the hallway near the stairs.
-
-`You have reached a staircase ascending back into the dungeon. Dying torches at the top of the stairs provide just enough light to see the outline of a cloaked figure sitting at the foot of the staircase. It's hunched over as a faint glowing blue blood oozes pools up on the stairs. Your torch light catches it's single oversized eye and gaping maul of a mouth. Under the cloak you can see a battered body. You've caught this creature in it's last moments.`
-
-Dmitry is dying but is very curious as to the players. He doesn't take this time to spill his life story but instead focuses on encouraging the players to seek the forbidden knowledge that Dmitry was never able to achieve. Dmitry will congratulate the players on their strength of mind, on their ability to resist the Beast's trickery.
-
-Dmitry's key interaction with the players is to let the players know they are not dealing with magic but something far more powerful. The beast is from another world where magic is nothing compared to it's power.
-
-If asked about his injury, Dmitry will tell the players that he encountered one of the real things in the dungeon, the guardian of the Beast.  He will tell the players that the Beast knew that it's powers wouldn't always be enough and so many traps were built into it's lair as well as a guardian. In the battle Dmitry found the guardian's weakness and he tells the players:
-
-`The guardian isn't like the Beast. It's power comes from it's body not it's mind. Beware it's sword and hammer they are surprisingly quick. It's impervious to attack except for one spot. On it's armor you'll see ruins over it's heart. The ruins are the weak point of his armor.`
-
-If asked about what is going on in this place, Dmitry answers:
-
-`I've been working on that for a long time. Long time. It's not magic. The Beast taps into some other power to make you experience things that aren't real but your mind makes them real. I think it came from another plane, somewhere magic isn't like it is here. I'm not sure where it's from but with all the traps here, I wonder what it is guarding.`
-
-If asked what he learned about the beast:
-
-`I don't know how the Beasts' powers work but I was able to craft a magical totem to disrupt it's connection to my mind. In the room above is an obsidian totem that when in the presence of the Beast will absorb it's power. I was able to use it in my last encounter with the Beast to disable it's mind games and deal a deadly blow. Sadly, it was not enough to kill it and it's guardian got me instead.`
-
-If the players ask about the traps:
-
-`I hope my traps haven’t cause you much dismay. I had to keep others out. Seems like what finally killed me came from within. The ropes…I should have used it against the Guardian. It wouldn’t follow me down the hallway.`
-
-Dmitry is fading fast and should die as the players are talking to him.
-
-Continue to [Chapter 4: Return to Madness](Chapter4.md)
-
-Return to [Chapter 3: Caverns of Respite](Chapter3.md)
