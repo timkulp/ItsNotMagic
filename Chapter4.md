@@ -2,11 +2,11 @@
 
 Emerging from the caverns, the players instantly feel the rush of the psionic assault over take them. Like in Chapter 2, use the exhaustion rules. Each player should take an Intelligence check against a Hard DC to see if the exhaustion effects the character. Any character involved in The Awakened adventure hook get a +2 bonus to their check as their psionic powers would naturally resist the psionic assault of another.
 
-Beyond the psionic rush, the players find themselves in the wizard’s laboratory. Apparently, Dmitry was performing strange operations and explorations on living creatures.
+Beyond the psionic rush, the players find themselves in the wizard’s laboratory. Apparently, Calvin was performing strange operations and explorations on living creatures.
 
 ## 4. The Laboratory
 
-`A wave of exhaustion over takes you just like when you first entered the dungeon. As your senses balance out you see a strange laboratory surrounding you. This must be Dmitry’s laboratory. Shelves of skulls line one wall, while the center of the room has a medical table with a cadaver. Strangest yet, at the far end of the room you can see a tree rising from a pool of acid. The only normal thing in this room is a wooden door to your right.`
+`A wave of exhaustion over takes you just like when you first entered the dungeon. As your senses balance out you see a strange laboratory surrounding you. This must be Calvin’s laboratory. Shelves of skulls line one wall, while the center of the room has a medical table with a cadaver. Strangest yet, at the far end of the room you can see a tree rising from a pool of acid. The only normal thing in this room is a wooden door to your right.`
 
 **Shelves of Skulls** Along the walls to the left are series of book shelfs with skulls of various shapes and sizes.
 
@@ -22,7 +22,7 @@ If the players examine the body they will see that their hand could fit into the
 
 Characters can reach into the body, but this is where they need to use the glove. If they use the glove to reach in and get the Obsidian Scarab, then nothing happens. If they use their hand, then the scarab will bite the player and summons a defender from the acid pool (with the tree). Use the Merfolk stats for the creatures that crawl from the acid. Their number will be equal to the number of players in the party (NPCs don’t count if the Barbarians have survived this long). Read the following to start the encounter:
 
-`As you reach into the body you are instantly bitten by something inside the body. Grabbing on to it you pull out the Obsidian Scarab that Dmitry described. The wriggling insect turns inanimate as you pull it from the body but from the acid pool you see human sized creatures crawl onto the dungeon floor. As they stand up you notice their half human – half fish features. Their thick greenish blue scales drip acid as they raise up their spears to attack.`
+`As you reach into the body you are instantly bitten by something inside the body. Grabbing on to it you pull out the Obsidian Scarab that Calvin described. The wriggling insect turns inanimate as you pull it from the body but from the acid pool you see human sized creatures crawl onto the dungeon floor. As they stand up you notice their half human – half fish features. Their thick greenish blue scales drip acid as they raise up their spears to attack.`
 
 The **merfolk** are guarding the Obsidian Scarab and will concentrate their attack on the character who is in possession of the item.
 
@@ -64,7 +64,7 @@ With a successful Perception check, players can find a secret door along the wal
 
 In the Guardian’s Hall there is a single trap immediately after the secret door. This last trap was built to keep invaders out of the central Sanctum. This trap is not only for the players but is added here to provide a mechanism to easily ensnare and disable the Guardian.
 
-#### T3: Dmitry’s Web of Strangulation
+#### T3: Calvin’s Web of Strangulation
 
 **Complex Trap:** Level 1 - 4, dangerous threat
 

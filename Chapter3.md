@@ -18,13 +18,13 @@ These Psionic Zombies will not attack the players as all the psionic energy is d
 
 If players try to interact with the zombies, the players will only get inane babble.
 
-## The Wizard Dmitry
+## The Wizard Calvin
 
-Within these caverns is a wizard who sought to understand the magical abilities of the Displacer Beast but instead was driven mad. When the wizard could not learn the secrets, he made a pact with the Dark Lord to learn the magic. The Wizard Dmitry, upon learning that the magic was not magic at all but a totally different discipline of warping reality, wandered the lands to explore Psionics. This world knew of no such power. Dmitry never got what he wanted and over time withered into the Nothic that he is today.
+Within these caverns is a wizard who sought to understand the magical abilities of the Displacer Beast but instead was driven mad. When the wizard could not learn the secrets, he made a pact with the Dark Lord to learn the magic. The Wizard Calvin, upon learning that the magic was not magic at all but a totally different discipline of warping reality, wandered the lands to explore Psionics. This world knew of no such power. Calvin never got what he wanted and over time withered into the Nothic that he is today.
 
-Dmitry can be found wandering throughout the dungeon and in the caverns below scheming, seeking, trying to unlock his own psionic abilities. Sadly he does not know that Psionics are not of this world. Dmitry will never possess psionic abilities.
+Calvin can be found wandering throughout the dungeon and in the caverns below scheming, seeking, trying to unlock his own psionic abilities. Sadly he does not know that Psionics are not of this world. Calvin will never possess psionic abilities.
 
-Overall Dmitry can provide the players some insight to the nature of psionics. He will not provoke the players but will detect their experiences throughout the dungeon and expose what they've experienced as if he experienced it as well. He is like a keeper of secrets who tells the secrets without realizing it.
+Overall Calvin can provide the players some insight to the nature of psionics. He will not provoke the players but will detect their experiences throughout the dungeon and expose what they've experienced as if he experienced it as well. He is like a keeper of secrets who tells the secrets without realizing it.
 
 ## The Caverns
 
@@ -41,7 +41,7 @@ If the players search the room, they will find a trail of glowing blue liquid th
 If the players find the liquid read the following:
 `The blue liquid has a faint glow to it getting stronger as the liquid goes further into the hallway. After closer examination you start to wonder if this thick glowing blue liquid is the blood of a magical creature. Drops, streaks and splotches of the glowing blue blood continue into the hallway.`
 
-The blue blood is that of the Nothic Wizard Dmitry. He was injured in battle with the Displacer Beast's guardian, then descended to the caverns to hide/heal. 
+The blue blood is that of the Nothic Wizard Calvin. He was injured in battle with the Displacer Beast's guardian, then descended to the caverns to hide/heal. 
 
 If you are using tiles for modeling the dungeon, you can use blue sparkle slime to illustrate the blood. Add the drops to the tiles after the players discover the blood trail.
 
@@ -49,6 +49,6 @@ If you are using tiles for modeling the dungeon, you can use blue sparkle slime 
 
 Out of the first room there is a long hallway that connects to another room. The other room is used to go back up into the Dungeon. The obsidian veins continue throughout the cavern hallway.
 
-If the players found the glowing streaks, they will be able to follow them deeper into the cave. If the players did not find the streaks, as they go deeper into the cave they will notice them. The streaks are from Dmitry's blood from his recent wounds.
+If the players found the glowing streaks, they will be able to follow them deeper into the cave. If the players did not find the streaks, as they go deeper into the cave they will notice them. The streaks are from Calvin's blood from his recent wounds.
 
 In the long hall players can have random encounters. Use Xandar's Guide to Everything. Creatures should be minor and mindless (animals).

@@ -6,7 +6,7 @@ In this chapter hallucinations are constant. Players need to break through the h
 
 On breaking the Orb read the following:
 
-`The Orb shatters as time stops around you. The weight of the hallucinations instantly lifts from your mind as a feeling of relief washes over you. The black fluid around the orb collapses down and is sucked back into the crack in the wall as the seams of the cracks shrink back into the wall until they are no more. Cracked remains of the orb pile on the floor as silence covers the sanctum. The portal is closed. Dmitry’s exploration into the unknown is finally over and safely sealed for this world.`
+`The Orb shatters as time stops around you. The weight of the hallucinations instantly lifts from your mind as a feeling of relief washes over you. The black fluid around the orb collapses down and is sucked back into the crack in the wall as the seams of the cracks shrink back into the wall until they are no more. Cracked remains of the orb pile on the floor as silence covers the sanctum. The portal is closed. Calvin’s exploration into the unknown is finally over and safely sealed for this world.`
 
 ## Obsidian Orb
 
