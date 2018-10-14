@@ -187,7 +187,7 @@ Within the room, there is a bookshelf, a desk, a map and a spiral staircase lead
 
 If the players examine the book…
 
-`Inscribed inside the cover is “The Wizard of the Mountains, Dmitry”.`
+`Inscribed inside the cover is “The Wizard of the Mountains, Calvin”.`
 
 Further examination leads to three book marks. The Red, Blue and Black bookmarks. Each book mark is to a specific section of the book. If the players go to the sections provide the following:
 
