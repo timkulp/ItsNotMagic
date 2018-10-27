@@ -1,6 +1,6 @@
 # Adventure Hooks & History
 
-Use the following history and adventure hooks to create a more engaging experience for your players. While you don't have to use all of this (or any of it), I do recommend using The Awakened hook as that will give your players access to psionic powers and make the game a bit more interesting.
+Use the following history and adventure hooks to create a more engaging experience for your players. While you don't have to use all of this (or any of it), I do recommend using The Awakened hook as that will give your players access to psionic powers and make the game a bit more interesting. Throughout the guide I'll reference how these adventure hooks play out to add some more depth to your game.
 
 ## History
 
@@ -18,7 +18,7 @@ Calvin built the obsidian orb from the caverns below his dungeon, crafted the sp
 
 Pick one or two of you most experience players and give them a back story that a few months ago they started having nightmares like the following:
 
-You can feel the presence of another in the room with you. Black tentacles whip around your feet as a cold wind blows past you repeatedly. In the darkness you can see two green eyes watching you as a monstrous, formless beast leaps from the shadows towards you.
+`You can feel the presence of another in the room with you. Black tentacles whip around your feet as a cold wind blows past you repeatedly. In the darkness you can see two green eyes watching you as a monstrous, formless beast leaps from the shadows towards you.`
 
 To set the mood, you can print this onto an index card to hand out to your players who have the dream. The players with the dream have felt drawn to this place. Through dreams and a feeling like a magnetic pull to this area, the players have come here because they could do nothing else.
 
@@ -35,6 +35,14 @@ The players have been searching for the dungeon for weeks now but to no luck. Th
 Recently magic has been losing its potency around these parts. The players have come to investigate this bizarre occurrence. Rumor and a string of crazy adventurers has led the players to this tavern where they are looking to find their next clue on why magic is fading around the neighboring mountain range.
 
 If one of the players is a magic user (Wizard, Sorcerer, Warlock) they ability to use magic will be impacted the deeper they go into the Wizard’s dungeon. In this adventure hook the psionic energy pouring out from the other dimension is also sucking in magical energies. Left unchecked, the other dimension will drain this world of its magical energies rendering it a dead world.
+
+### Madness on the road
+
+If you're party is already on a quest and you want a side adventure have them run into a traveler on the road. The traveler is descending into madness and claiming that the eyes are following him. The traveler directs the party to the near by tavern where they can jump into the [Prologue](Prologue.md).
+
+## How did we get here
+
+Another approach to Adventure Hooks is to be creative with how the party came together. Make sure before the adventure starts you talk with the players to determine how they know each other (or don't). Are they following their own path or did they come here together? Have fun with the players coming up with an origin story for the party.
 
 Continue to [Prologue](Prologue.md)
 

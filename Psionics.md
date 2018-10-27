@@ -14,7 +14,7 @@ In this adventure, players with the dreams pulling them here have had their psio
 
 | d20 Roll | Effect                                                                             |
 | -------- | ---------------------------------------------------------------------------------- |
-| 1	       | No Wild Talent manifests and the character collapses from their psionic imbalance. |
+| 1        | No Wild Talent manifests and the character collapses from their psionic imbalance. |
 | 2– 5     | No Wild Talent manifests and a deep exhaustion overcomes the character.            |
 | 6 – 10   | No Wild Talent and no effects.                                                     |
 | 11 – 14  | No Wild Talent manifests but the character’s perception is heightened for a round. |
@@ -25,28 +25,52 @@ Use the states from the *Players Handbook* for prone (collapse) and exhaustion.
 
 ### Controlled vs. Uncontrolled Wild Talents
 
-Wild Talents are usually uncontrolled as they are random by nature. Think of Wild Talents as an explosion of psionic energy that randomly manifests. On very rare occassions a Wild Talent can manifest as controlled. In the Wild Talent list provided below both Controlled and Uncontrolled Effects are presented. 
+Wild Talents are usually uncontrolled as they are random by nature. Think of Wild Talents as an explosion of psionic energy that randomly manifests. On very rare occassions a Wild Talent can manifest as controlled. In the Wild Talent list provided below both Controlled and Uncontrolled Effects are presented.
 
 ### Table 2: Wild Talent Manifestations
 
-| d8 Roll   | Wild Talent     |
-| --------- | --------------- |
-| 1         | Empathy         |
-| 2         | Telepathy       |
-| 3         | Telekinesis     |
-| 4         | Fireworks       |
-| 5         | Psionic Force   |
-| 6         | Invoke Pain     |
-| 7         | Pyrokinesis     |
-| 8         | Parallel Effect |
+| d8 Roll   | Wild Talent              |
+| --------- | ------------------------ |
+| 1         | Empathy                  |
+| 2         | Thought Projection       |
+| 3         | Foresight                |
+| 4         | Fireworks                |
+| 5         | Psionic Force            |
+| 6         | Invoke Pain              |
+| 7         | Pyrokinesis              |
+| 8         | Parallel Effect          |
 
 ### Wild Talent Descriptions
 
 #### Empathy
 
-#### Telepathy
+*Duration* Immediate
 
-#### Telekinesis
+*Area of Effect* 1d20 feet radius (if uncontrolled) or 1 creature within 20 feet (if controlled)
+
+*Effect* Empathy projects an emotion into those effected. If the manifestation is controlled, the character can select which emotion to project. If the manifestion is uncontrolled, the DM can select an emotion or use the following table to select what is projected to the area of effect.
+
+| d4 | Emotion |
+| 1  | Fear    |
+| 2  | Sadness |
+| 3  | Panic   |
+| 4  | Joy     |
+
+#### Thought Projection
+
+*Duration* Immediate
+
+*Area of Effect* 1d20 feet radius (if uncontrolled) or 2-3 creatures within 20 feet (if controlled)
+
+*Effect* With Thought Projection the character will project a message either as words or images to the area of effect. If controlled, the player controls the mesage and can select what they want to say/communicate to the area of effect. If uncontrolled, the DM can select what message is communicated whether it is something the character intended to share or not. This can be a great opportunity to role play a secret from the character's past slipping out to the party.
+
+#### Foresight
+
+*Duration* Immediate
+
+*Area of Effect* Character
+
+*Effect* Foresight is a powerful vision of the future that impacts the character. As the DM you can decide what the character sees. Use the controlled vs. uncontrolled to determine how clear the vision is. Controlled would be clear and accurate where uncontrolled would be blurry and confusing.
 
 #### Fireworks
 
