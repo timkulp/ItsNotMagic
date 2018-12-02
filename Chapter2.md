@@ -1,16 +1,16 @@
 # Chapter 2: Enter the Madhouse
 
-Chapter two starts as the players enter the madhouse, aka the Wizard’s Dungeon. At this point the players are in reach of the psionic powers from the Beast as soon as they step into the dungeon. 
+Chapter two starts as the players enter the Madhouse, aka the Wizard’s Dungeon. At this point the players are in reach of the psionic powers from the Beast as soon as they step into the dungeon.
 
 `As soon as you cross the threshold of the dungeon you feel a rush, like a powerful wind, blow over you. As it subsides you feel drained as if all the energy got sucked out of you.`
 
 The rush of energy is the Beast’s psionic powers starting to effect them. Each player should take an Intelligence check against a Hard DC to see if the exhaustion effects the character. Any character involved in The Awakened adventure hook get a +2 bonus to their check as their psionic powers would naturally resist the psionic assault of another.
 
-## Why is it called the Madhouse?
+## Why is it called the Madhouse
 
-This dungeon is being infected by other worldly powers leaking into it from a portal to the unknown. As a result, this place is a nightmare come to life. Psionic powers from the Beast as well as from the other world are constantly assaulting the players. Calling this place “The Madhouse” is fitting as the psionic projections could induce a state of madness. 
+This dungeon is being infected by other worldly powers leaking into it from a portal to the unknown. As a result, this place is a nightmare come to life. Psionic powers from the Beast as well as from the other world are constantly assaulting the players. Calling this place “The Madhouse” is fitting as the psionic projections could induce a state of madness.
 
-The characters are strong, so while it doesn’t cause madness they can have numerous mass hallucinations. Treat a hallucination like a random encounter and check every once in a while. How often is up to you but make sure it is a shared experience.
+The characters are strong, so while it doesn’t cause madness they can have numerous mass hallucinations. Treat a hallucination like a random encounter and check every once in a while. How often is up to you but make sure it is a shared experience meaning that all impacted characters experience the same halucination.
 
 Hallucinations can be broken with an Intelligence check against Fear. Use your judgement on how difficult to make the check based on your players. Any Awakened (Psionic) character should have +2 to the check signaling their ability to resist psionic attack. If a character breaks the hallucination, they no longer experience the hallucination and can help others break the hallucination on the next round. A character who has broken the hallucination provides a +1 to the Intelligence check against Fear for the character they are helping.
 
@@ -33,7 +33,7 @@ Hallucinations can be broken with an Intelligence check against Fear. Use your j
 
 **Effect** This is the same as a random encounter
 
-**Description** This hallucination is creating a monster from nothing. Use the Monstrous Manual’s (or Xanthar’s Guide to Everything) Random Encounter tables to select a monster to attack the characters. Feel free to generate multiple monsters to battle the players. 
+**Description** This hallucination is creating a monster from nothing. Use a Random Encounter table to select a monster to attack the characters. Feel free to generate multiple monsters to battle the players.
 
 These monsters are not real and cannot kill the characters. Any character reduced to zero hit points falls but is not killed (because these monsters aren’t real). If all characters are reduced to zero hit points then read the following:
 
