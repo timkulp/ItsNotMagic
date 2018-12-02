@@ -98,11 +98,11 @@ One way to keep this change for the players simple is to provide them with index
 
 ## The Madhouse
 
-![Map of the Madhouse](images/madhousemap.jpg)
+![Map of the Madhouse](images/The Madhouse Map.jpg)
 
 ### 1. The Entryway
 
-The entry way is an open gathering place. The entrance looks nice and welcoming. The players will find some gems strewn around the door as soon as they walk in for a value of 8 gems. 
+The entry way is an open gathering place. The entrance looks nice and welcoming. The players will find some gems strewn around the door as soon as they walk in for a value of 8 gems.
 
 `The entrance is a wide-open place. The stone brick walls are smooth and polished. Hanging on the wall you find a map of the dungeon with the rooms and features noted. On the floor by the door you see a cluster of gems strewn around the floor and what appears to be a hammer with a head made of diamond. Apparently, the last treasure hunters dropped something while they were heading out the door. There must be so much treasure in here that you can't hold it all.`
 

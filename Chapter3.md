@@ -28,7 +28,7 @@ Overall Calvin can provide the players some insight to the nature of psionics. H
 
 ## The Caverns
 
-[Map of the Caverns](images/MapOfCaverns.jpg)
+![Map of the Caverns](images/ItsNotMagic - Caverns.jpg)
 
 ### 1: First Room
 
