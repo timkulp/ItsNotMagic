@@ -38,16 +38,19 @@ If you want to make Cashus a memorable character, show him conquer his own fear 
 
 ### Cashus
 
-Male Halfing - Level 4, Rogue
-Hit Dice: 4d8
-AC: 12
-Str: 9 (-1)
-Dex: 15 (+2)
-Con: 11 (0)
-Int: 12 (+1)
-Wis: 10 (0)
-Cha: 13 (+1)
-Equipment: Theive’s Kit, Dagger, Satchel
+*Male Halfing - Level 4, Rogue
+*Hit Dice: 4d8
+*AC: 12
+*Str: 9 (-1)
+*Dex: 15 (+2)
+*Con: 11 (0)
+*Int: 12 (+1)
+*Wis: 10 (0)
+*Cha: 13 (+1)
+*Equipment:
+ *Theive’s Kit,
+ *Dagger,
+ *Satchel
 
 ## Entrance to the Madhouse
 

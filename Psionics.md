@@ -12,14 +12,14 @@ In this adventure, players with the dreams pulling them here have had their psio
 
 ### Table 1: Wild Talent Occurance
 
-d20 Roll | Effect
--------- | ----------------------------------------------------------------------------------
-1        | No Wild Talent manifests and the character collapses from their psionic imbalance.
-2– 5     | No Wild Talent manifests and a deep exhaustion overcomes the character.
-6 – 10   | No Wild Talent and no effects.
-11 – 14  | No Wild Talent manifests but the character’s perception is heightened for a round.
-15 – 19  | An uncontrollable Wild Talent manifests.
-20       | A controlled Wild Talent manifests.
+| d20 Roll | Effect                                                                             |
+| -------- | ---------------------------------------------------------------------------------- |
+| 1        | No Wild Talent manifests and the character collapses from their psionic imbalance. |
+| 2– 5     | No Wild Talent manifests and a deep exhaustion overcomes the character.            |
+| 6 – 10   | No Wild Talent and no effects.                                                     |
+| 11 – 14  | No Wild Talent manifests but the character’s perception is heightened for a round. |
+| 15 – 19  | An uncontrollable Wild Talent manifests.                                           |
+| 20       | A controlled Wild Talent manifests.                                                |
 
 Use the states from the *Players Handbook* for prone (collapse) and exhaustion.
 
@@ -51,6 +51,7 @@ Wild Talents are usually uncontrolled as they are random by nature. Think of Wil
 *Effect* Empathy projects an emotion into those effected. If the manifestation is controlled, the character can select which emotion to project. If the manifestion is uncontrolled, the DM can select an emotion or use the following table to select what is projected to the area of effect.
 
 | d4 | Emotion |
+| -- | ------- |
 | 1  | Fear    |
 | 2  | Sadness |
 | 3  | Panic   |
