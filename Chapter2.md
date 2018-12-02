@@ -98,7 +98,7 @@ One way to keep this change for the players simple is to provide them with index
 
 ## The Madhouse
 
-![Map of the Madhouse](images/The Madhouse Map.png)
+![Map of the Madhouse](images/TheMadhouseMap.png)
 
 ### 1. The Entryway
 
