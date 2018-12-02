@@ -41,7 +41,7 @@ If the players search the room, they will find a trail of glowing blue liquid th
 If the players find the liquid read the following:
 `The blue liquid has a faint glow to it getting stronger as the liquid goes further into the hallway. After closer examination you start to wonder if this thick glowing blue liquid is the blood of a magical creature. Drops, streaks and splotches of the glowing blue blood continue into the hallway.`
 
-The blue blood is that of the Nothic Wizard Calvin. He was injured in battle with the Displacer Beast's guardian, then descended to the caverns to hide/heal. 
+The blue blood is that of the Nothic Wizard Calvin. He was injured in battle with the Displacer Beast's guardian, then descended to the caverns to hide/heal.
 
 If you are using tiles for modeling the dungeon, you can use blue sparkle slime to illustrate the blood. Add the drops to the tiles after the players discover the blood trail.
 

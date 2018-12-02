@@ -115,9 +115,9 @@ The entry way is an open gathering place. The entrance looks nice and welcoming.
 ### 2. The Main Hall
 
 The main hall is a long hallway laden with traps. The walls are shiny enough to carry the torch light all the way down the hall.
- 
+
 `As you step into the long hallway you instantly feel a flood of exhaustion. The feeling passes quickly. You see in front of you a long narrow hallway with glossy walls that carry your torch light all the way down the hall to where a wooden door awaits. Along the walls you notice strange scrapes and scratches along the floor. In a few spots you notice blood stains on the walls and floor. You see some coins glittering in the torch light throughout the hallway. A buzzing sound echoes throughout the hallway making it impossible to pinpoint an origin.`
- 
+
 As players proceed down the hall there are two traps to avoid. These traps are very real and were originally constructed by the wizard who lived here to keep people out.
 
 #### Traps

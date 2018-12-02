@@ -4,15 +4,15 @@ This role playing game adventure takes you through a Wizard's Dungeon to find th
 
 ## Table of Contents
 
-* **[Psionics](psionics.md)**: An introduction to the powers fueling this journey into insanity.
+* **[Psionics](Psionics.md)**: An introduction to the powers fueling this journey into insanity.
 * **[Adventure Hooks](AdventureHooks.md)**: Ideas on how to make the adventure more engaging for your players.
-* **[Prologue](prologue.md)**: Introducing the adventure.
-* **[Chapter 1](chapter1.md)**: Someone Has Come Along
-* **[Chapter 2](chapter2.md)**: Enter the Madhouse
-* **[Chapter 3](chapter3.md)**: Caverns of Respite
-* **[Chapter 4](chapter4.md)**: Return to Madness
-* **[Chapter 5](chapter5.md)**: In & Out
-* **[Epilogue](epilogue.md)**
+* **[Prologue](Prologue.md)**: Introducing the adventure.
+* **[Chapter 1](Chapter1.md)**: Someone Has Come Along
+* **[Chapter 2](Chapter2.md)**: Enter the Madhouse
+* **[Chapter 3](Chapter3.md)**: Caverns of Respite
+* **[Chapter 4](Chapter4.md)**: Return to Madness
+* **[Chapter 5](Chapter5.md)**: In & Out
+* **[Epilogue](Epilogue.md)**
 
 ## Encountering The Other
 
