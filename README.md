@@ -1,6 +1,6 @@
 # It's Not Magic
 
-This role playing game adventure takes you through a Wizard's Dungeon to find the invasion of an other worldly power.
+This role-playing game adventure takes you through a Wizard's Dungeon to find the invasion of an other worldly power.
 
 ## Table of Contents
 
@@ -16,7 +16,7 @@ This role playing game adventure takes you through a Wizard's Dungeon to find th
 
 ## Encountering The Other
 
-In the worlds of Dungeons & Dragons, magic is as natural as water. While not common, it is known and understood to exist. Characters in D&D recognize that magic is a great power that flows through the multiverse, a power that can build worlds or destroy them. Magic is not all there is in the multiverse, there are other powers just as potent and even more destructive. What happens when one of these *other* powers leaks into our world?
+In the worlds of Dungeons & Dragons, magic is as natural as water. While not everyone can control magic, it is known and understood to exist. Characters in D&D recognize that magic is a great power that flows through the multiverse, a power that can build worlds or destroy them. Magic is not the only power in the multiverse, there are other powers just as potent and even more destructive. What happens when one of these *other* powers leaks into our world?
 
 Welcome to *It’s Not Magic*, an adventure that takes players into a world where magic is not the ultimate power. Deep into a Wizard’s Dungeon known as The Madhouse players will encounter other worldly horrors, deadly traps and awaken dormant powers within themselves.
 
@@ -26,20 +26,27 @@ This journey into darkness is best for 2-4 players levels 3-5. Ideal character c
 
 *It’s Not Magic* is about encountering the unknown when our quest for power leads to our darkest places.
 
-Throughout this adventure the players will be facing fear, other worldly horrors and powers unlike anything seen before. Take inspiration for this adventure from tales where humanity seeks forbidden knowledge such as the stories of H.P. Lovecraft or strange journeys like William Hope Hodgson. The experiences of the players are other worldly, strange and from these things, terrifying.
+Throughout this adventure the players will be facing fear, other worldly horrors and powers unlike anything they've seen before.
+
+### Reading for Inspiration
+
+* H.P. Lovecraft tales are full of those who pursue the unknown. Lovecraft provides excellent descriptions of spaces and objects. Check out stories such as *The Color Out of Space* or *The Outsider* for how to describe things in detail while building images in the player's imagination. Side note, The Outsider is an amazing story that I highly recommend regardless of use.
+* William Hope Hodgson provides excellent writings on strange creatures and journeys in tales like *The House on the Borderland* or *The Boats of Glen Carrig*. Both stories explore strange and unknown places. I like to use bits of Hodgson's descriptions (usually his descriptions are way too long for a game session).
 
 ### Sanity & Horror
 
-In this adventure we will be exploring other worldly horrors that pull apart the character's sanity. To represent this, implement the optional **Sanity** score. Each encounter with madness will eat away at this score until all that is left is a slobering, blob of player character.
+In this adventure we will be exploring other worldly horrors that pull apart the character's sanity. To represent this, implement the optional **Sanity** score. Each encounter with madness will eat away at this score until all that is left is a slobbering, blob of player character.
 
 All player characters start with 10 sanity.
 
 * **Ten (10)** represents a firm grip on the player character's known world.
-* **Six (6)** represents the player character is slipping. Halucinations can occur but the PC still knows what is real.
+* **Six (6)** represents the player character is slipping. Hallucinations can occur but the PC still knows what is real.
 * **Three (3)** represents the PC can't distinguish between what is real and what isn't anymore.
 * **Zero (0)** represents total madness where the PC is catatonic.
 
 Take madness as a great opportunity to role play and reward PCs who explore their character's grip on reality.
+
+Notice, I don't provide specifics on what costs sanity or how to recover. That is up to you as a game master. Have fun with it or ignore this all together. It's your game!
 
 ## Mood
 
@@ -49,23 +56,24 @@ Setting the mood for the adventure is always critical for the best experience. T
 
 Start the Tavern with a room full of light. This is the brightest time for the players. As your party moves into the dungeon, bring the lights down or switch to only use the LED Candles (representing the player’s torches). In the Caverns reduce the number of candles to heighten the sense of darkness and isolation. Using lighting to adjust the mood can add a powerful element to your game.
 
-**Audio** provides a heighten sense of drama throughout the game. Matching the lighting, audio can be used to take the players from jovial to forboding as they descend into the dungeon.
+**Audio** provides a heighten sense of drama throughout the game. Matching the lighting, audio can be used to take the players from jovial to foreboding as they descend into the dungeon.
 
 When working with music avoid soundtracks. If a soundtrack starts playing and the players’ mind goes to the movie associated with the soundtrack, the mood will be broken. You can use soundscapes through Youtube or a white noise generator to bring your players into your world.
 
 ## Setting
 
-So where is this adventure? Well that is up to you. The content here is kept fairly generic and can be modified to be where ever you’d like it to be. Maybe it's in the Forgotten Realms, Equestria or Malifaux. Be creative and adapt to your world how you see fit. As an example, you could start in the Yawning Portal tavern in Forgotten Realms and take the players into an undiscovered mountain cavern deep in the Sword Mountains. Have fun with the setting and take the players from the familiar to the alien. That makes things more fun for everyone.
+So where is this adventure? Well that is up to you. The content here is kept\
+ generic and can be modified to be where ever you’d like it to be. Be creative and adapt to your world how you see fit. Have fun with the setting and take the players from the familiar to the alien. That makes things more fun for everyone.
 
 ## Story Summary
 
 Like many horror stories, this tale starts in a bar with almost everyone having a great time. At one table, hard drinking, hard partying Barbarians are celebrating. At another table, a somber group of travelers toasts the fallen. In the bar the party learns about the Wizard's Dungeon full of treasure and traps. Through conversation the party learns of a madness infecting all who go to the dungeon. Warnings of eyes in the darkness and certain insanity don't sway the party from the riches rumored within the dungeon.
 
-In the dungeon, players immediately feel the impact of the psionic assault. Dangers come at the party from inside and out as halucinations and real world traps keep the party on their toes. The party eventually makes their way to the Wizard's Study where they start to learn of the Wizard's exploration into dark powers better left alone.
+In the dungeon, players immediately feel the impact of the psionic assault. Dangers come at the party from inside and out as hallucinations and real world traps keep the party on their toes. The party eventually makes their way to the Wizard's Study where they start to learn of the Wizard's exploration into dark powers better left alone.
 
-In the caverns under the dungeon the party finds a host of lost minds driven mad by the hallucinations and psionic attacks in the dungeon. The walls of the caverns block the psionic powers driving the halucinations. Deep into the caverns the party will encounter Calvin, the Mad Wizard who brought the darkness to this world. Calvin helps equip the characters with the tools they need, the Hammer of Shattering (found in the entry way of the dungeon) and the Obisidon Scarab needed to defea the Beast and destroy the orb.
+In the caverns under the dungeon the party finds a host of lost minds driven mad by the hallucinations and psionic attacks in the dungeon. The walls of the caverns block the psionic powers driving the hallucinations. Deep into the caverns the party will encounter Calvin, the Mad Wizard who brought the darkness to this world. Calvin helps equip the characters with the tools they need, the Hammer of Shattering (found in the entry way of the dungeon) and the Obsidian Scarab needed to defeat the Beast and destroy the orb.
 
-Emerging from the caverns the psionic assault continues as the characters find themselves in the Wizard's laboratory. Here the party will find the Obsidian Scarab and maybe fight some twisted, evil merefolk emerging from a pool of acid. Here the party will find the valve needed to drain the acid in the neighboring hall. The hall leads to the Wizard's Sanctum but before entering the sanctum, the characters must defeat The Guardian.
+Emerging from the caverns the psionic assault continues as the characters find themselves in the Wizard's laboratory. Here the party will find the Obsidian Scarab and fight some twisted, evil merefolk emerging from a pool of acid. The party will find the valve needed to drain the acid in the neighboring hall allowing them to proceed out of the room. The hall leads to the Wizard's Sanctum but before entering the sanctum, the characters must defeat The Guardian: a creature protecting the other worldly invasion.
 
 Within the Sanctum evil from another dimension pours into our world. A Beast looms in the shadows channeling the psionic energies from the other dimension into supernatural powers. The party must defeat the Beast and destroy it's source of power to stop the other worldly invasion.
 

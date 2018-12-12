@@ -1,16 +1,16 @@
 # Psionics
 
-This adventure digs into the Psionic rules provided in [Unearthed Arcana](http://media.wizards.com/2017/dnd/downloads/UAMystic3.pdf). If your players have never worked with psionics before, this adventure can act as an introduction where players ease into the world of psionics ending the game as a level 1 Mystic. Along with the players having psionics, the main villain of the adventure, the Beast has psionics.
+This adventure digs into the Psionic rules provided in [Unearthed Arcana](http://media.wizards.com/2017/dnd/downloads/UAMystic3.pdf). If your players have never worked with psionics before, this adventure can act as an introduction where players ease into the world of psionics ending the game as a Mystic. Along with the players having psionics, the main villain of the adventure, the Beast has psionics.
 
-In your adventuring party, select your most experience players to manifest psionics. The powers and rules are not for beginners. In the adventure hooks section, you will learn more about The Awakening hook. If you use that hook any players having the dreams will manifest psionic powers as they delve into the dungeon. Prior to the dungeon, the psionics will manifest as Wild Talents. 
+In your adventuring party, select your most experience players to manifest psionics. The powers and rules are not for beginners. In the adventure hooks section, you will learn more about The Awakening hook. If you use that hook any players having the dreams described will manifest psionic powers as they delve into the dungeon. Prior to the dungeon, the psionics will manifest as Wild Talents.
 
 ## Wild Talents
 
-In this adventure you can use the option Wild Talents rule for Psionics. Wait, Wild Talents was that in the Unearthed Arcana article? No, you didn’t miss a section in the article, Wild Talents are not part of the 5th Edition Psionic Rules. The concept of Wild Talents was introduced to me in the Dark Sun campaign setting where the creatures of Athas (the world of Dark Sun) would randomly manifest psionic abilities, often uncontrollably.
+In this adventure you can use the optional Wild Talents rule for Psionics. Wait, Wild Talents was that in the Unearthed Arcana article? No, you didn’t miss a section in the article, Wild Talents are not part of the 5th Edition Psionic Rules. The concept of Wild Talents was introduced to me in the Dark Sun campaign setting where the creatures of Athas (the world of Dark Sun) would randomly manifest psionic abilities.
 
 In this adventure, players with the dreams pulling them here have had their psionic potential awakened by the rift between worlds. Like stories of people being able to do amazing things under duress, Wild Talents can manifest randomly or during times of stress. Use the table below to determine if a Wild Talent manifests, then use the Wild Talent Manifestation Table to determine what happens.
 
-### Table 1: Wild Talent Occurance
+### Table 1: Wild Talent Occurrence
 
 | d20 Roll | Effect                                                                             |
 | -------- | ---------------------------------------------------------------------------------- |
@@ -25,7 +25,7 @@ Use the states from the *Players Handbook* for prone (collapse) and exhaustion.
 
 ### Controlled vs. Uncontrolled Wild Talents
 
-Wild Talents are usually uncontrolled as they are random by nature. Think of Wild Talents as an explosion of psionic energy that randomly manifests. On very rare occassions a Wild Talent can manifest as controlled. In the Wild Talent list provided below both Controlled and Uncontrolled Effects are presented.
+Wild Talents are usually as uncontrolled by nature. Think of Wild Talents as an explosion of psionic energy that randomly manifests. On very rare occasions a Wild Talent can manifest as controlled. In the Wild Talent list provided below both Controlled and Uncontrolled Effects are presented.
 
 ### Table 2: Wild Talent Manifestations
 
@@ -48,7 +48,7 @@ Wild Talents are usually uncontrolled as they are random by nature. Think of Wil
 
 *Area of Effect* 1d20 feet radius (if uncontrolled) or 1 creature within 20 feet (if controlled)
 
-*Effect* Empathy projects an emotion into those effected. If the manifestation is controlled, the character can select which emotion to project. If the manifestion is uncontrolled, the DM can select an emotion or use the following table to select what is projected to the area of effect.
+*Effect* Empathy projects an emotion to those effected. If the manifestation is controlled, the character can select which emotion to project. If the manifestation is uncontrolled, the DM can select an emotion or use the following table to select what is projected to the area of effect.
 
 | d4 | Emotion |
 | -- | ------- |
@@ -63,7 +63,7 @@ Wild Talents are usually uncontrolled as they are random by nature. Think of Wil
 
 *Area of Effect* 1d20 feet radius (if uncontrolled) or 2-3 creatures within 20 feet (if controlled)
 
-*Effect* With Thought Projection the character will project a message either as words or images to the area of effect. If controlled, the player controls the mesage and can select what they want to say/communicate to the area of effect. If uncontrolled, the DM can select what message is communicated whether it is something the character intended to share or not. This can be a great opportunity to role play a secret from the character's past slipping out to the party.
+*Effect* With Thought Projection the character will project a message either as words or images to the area of effect. If controlled, the player controls the message and can select what they want to say/communicate to the area of effect. If uncontrolled, the DM can select what message is communicated whether it is something the character intended to share or not. This can be a great opportunity to role play a secret from the character's past slipping out to the party.
 
 #### Foresight
 
@@ -87,7 +87,7 @@ Wild Talents are usually uncontrolled as they are random by nature. Think of Wil
 
 *Area of Effect* 1d10 feet radius (if uncontrolled) or 1d10 cone (if controlled)
 
-*Effect* Psionic Force applies an unseen concusive force like a silent sonic boom that will blow over tables, bookshelves or medium sized creatures. Effected creatures can resist the force with a Medium DC check applying strength modifiers. If effected, creatures will be knocked down and need to use an action to recover. If the Wild Talent manifests uncontrolled, the force bursts from the character impacting other characters, scenery, etc... If the Wild Talent is controlled, it explodes as a cone from the character’s chest.
+*Effect* Psionic Force applies an unseen concussive force like a silent sonic boom that will blow over tables, bookshelves or medium sized creatures. Effected creatures can resist the force with a Medium DC check applying strength modifiers. If effected, creatures will be knocked down and need to use an action to recover. If the Wild Talent manifests uncontrolled, the force bursts from the character impacting other characters, scenery, etc... If the Wild Talent is controlled, it explodes as a cone from the character’s chest.
 
 #### Invoke Pain
 
@@ -103,7 +103,7 @@ Wild Talents are usually uncontrolled as they are random by nature. Think of Wil
 
 *Area of Effect* 1d20 feet radius (if uncontrolled) or 1d20 feet cone (if controlled)
 
-*Effect* Pyrokinesis is an explosion of fire that bursts from the player’s mid-section causing 1d8 fire damage to 1d20 feet radius around the player. This effect can be quite an inconvenience to other character close to the character. If the Wild Talent is controlled, then it manifests as a cone of fire bursting from the character’s forehead for 1d20 feet.
+*Effect* Pyrokinesis is an explosion of fire that bursts from the player’s hands causing 1d8 fire damage to anything in the area of effect. This effect can be quite an inconvenience to other characters close to the character. If the Wild Talent is controlled, then it manifests as a cone of fire bursting from the character’s hands for 1d20 feet.
 
 #### Parallel Effect
 
